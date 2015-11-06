@@ -1,0 +1,10 @@
+Ingredients:
+
+$5.00
+
+Directions:
+
+1. Drive to the "Empanada Guy" food truck.
+2. Give him $5.00.
+3. They give you 2 Empanadas.
+4. Repeat steps 2 and 3 until you have created the desired number of servings.
